@@ -53,7 +53,7 @@ When I’m not coding, you’ll probably find me:
 ---
 
 ### 📊 GitHub Stats
-![Mauricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marroco93&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marroco93&layout=compact&theme=radical)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Marroco93&style=flat-square&color=blue)
 
