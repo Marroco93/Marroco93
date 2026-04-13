@@ -1,62 +1,110 @@
 # 👋 Hi, I'm Mauricio Marroquín
 
-## 🌟 Full Stack Developer | System Engineer  
-📍 Based in Puerto Rico, USA  
+## 🚀 Senior Full-Stack Engineer | Systems & Architecture Focus  
+📍 FL, USA  
 
 ---
 
-### 🚀 About Me
-I am a full-stack developer passionate about building efficient and scalable web and mobile applications. With experience in **Laravel**, **Svelte**, **Golang**, **Rust**, **TypeScript**, and **Flutter**, I enjoy working on projects that require optimization for high-concurrency systems and top-notch performance.
+## 🧠 About Me
 
-I am constantly exploring emerging technologies and applying them to real-world challenges, making systems faster, more secure, and more reliable.
+I’m a full-stack engineer focused on **building scalable, production-grade systems** with strong emphasis on backend architecture, performance, and real-world reliability.
 
----
+I specialize in designing and developing systems that handle **high concurrency, complex workflows, and data-intensive operations**, particularly in SaaS environments.
 
-### 💻 Technologies and Tools
-- **Programming Languages:** Laravel, Svelte, Golang, Rust, TypeScript, Flutter  
-- **Frameworks & Tools:** Docker, Postman, VS Code, Datagrid, Linux Terminal, and more  
-- **Operating Systems:** Linux (Ubuntu, CentOS), MacOS  
-
----
-
-### 📌 Featured Projects
-- **[Pacman Software](https://pacmansoftware.com):**  
-  A CRM specifically designed for public adjusters in the United States, helping them optimize job tracking and claims management.
-
-- **[odoope_ruc_validation](https://github.com/Marroco93/odoope_ruc_validation):**  
-  A module for validating RUC numbers in Odoo, reflecting my experience with ERP systems.
+My work goes beyond just coding — I focus on:
+- System design & clean architecture  
+- Performance optimization & scalability  
+- API design & integrations  
+- Product-driven engineering decisions  
 
 ---
 
-### 🏆 Highlights and Achievements
-- 🌟 Led the development of **Pacman Software**, a CRM recognized for its robustness and efficiency.  
-- 🔍 Worked on code optimization for systems managing thousands of concurrent users, reducing response times and improving user experience.  
-- 💡 Contributed to backend systems development using **Golang**, emphasizing clean architecture and best practices.  
-- 🛠️ Developed and maintained scalable APIs for high-demand applications.  
+## ⚙️ Core Stack
+
+**Backend**
+- Golang (Gin, clean architecture)
+- Laravel (modular monolith → microservices migration)
+- REST APIs, JWT authentication
+
+**Frontend**
+- Svelte / SvelteKit
+- TailwindCSS
+
+**Mobile**
+- Flutter
+
+**Infrastructure & Tools**
+- Docker
+- AWS (S3, CloudFront)
+- PostgreSQL / NoSQL
+- NGINX
+- CI/CD pipelines
 
 ---
 
-### 🎮 Fun Facts
-When I’m not coding, you’ll probably find me:  
-- 🎮 Playing FPS games and exploring new gaming mechanics.  
-- 🛠️ Experimenting with technologies like **Rust** and **Golang** to push performance boundaries.  
-- 🧩 Solving coding challenges to stay sharp and innovative.
+## 🧩 What I Build
+
+- Multi-tenant SaaS platforms  
+- High-performance APIs  
+- Workflow & automation systems  
+- Real-time and event-driven features  
+- AI-integrated systems (document processing, automation)  
 
 ---
 
-### 📫 Let's Connect!
-- 🌐 Website: [Pacman Software](https://pacmansoftware.com)  
-- 💼 LinkedIn: **https://www.linkedin.com/in/hector-mauricio-marroquin-valcarcel-b2a0a4126/**  
-- 📧 Email: **mauricio@tachscreen.com**  
-- 🖥️ Portfolio: **(https://tachscreen.com)**  
+## 🏗️ Featured Work
+
+### 🔹 Pacman Software  
+👉 https://pacmansoftware.com  
+
+A CRM platform for public adjusters in the U.S., designed to handle complex claim workflows.
+
+**Key Contributions:**
+- Designed scalable backend architecture  
+- Implemented claim workflows, diary systems, and document handling  
+- Optimized performance for high-concurrency usage  
+- Integrated automation and external services  
 
 ---
 
-### 📊 GitHub Stats
+### 🔹 Odoo RUC Validation Module  
+👉 https://github.com/Marroco93/odoope_ruc_validation  
+
+Custom module for validating tax identification numbers (RUC) within Odoo ERP systems.
+
+---
+
+## 🏆 Highlights
+
+- Built and scaled SaaS platforms used in real production environments  
+- Improved system performance under concurrent load scenarios  
+- Led backend architecture decisions across multiple projects  
+- Experience migrating systems toward more scalable architectures (Go, microservices)  
+
+---
+
+## 🎯 Current Focus
+
+- Distributed systems & scalability  
+- High-performance backend development in Go  
+- AI-assisted workflows and automation  
+- Clean architecture & maintainable systems  
+
+---
+
+## 📫 Contact
+
+- 🌐 https://pacmansoftware.com  
+- 💼 https://www.linkedin.com/in/hector-mauricio-marroquin-valcarcel-b2a0a4126/  
+- 📧 mauricio@tachscreen.com  
+
+---
+
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marroco93&layout=compact&theme=radical)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Marroco93&style=flat-square&color=blue)
 
 ---
 
-Feel free to explore my repositories and reach out for collaborations or opportunities!
+> I focus on building systems that scale — not just code that works.
